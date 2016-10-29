@@ -1,0 +1,1 @@
+Playground for assignment #1 for coursera's course "Single Page Web Applications with AngularJS"
